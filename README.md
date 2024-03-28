@@ -72,4 +72,4 @@ Desde el 2019 empiezo a trabajar en procesos formativos, creando contenidos de p
 -----
 Credito: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Última edicción: 28/03/2024
+Última edición: 28/03/2024
