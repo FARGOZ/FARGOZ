@@ -1,7 +1,7 @@
-# ![https://fargoz.com.co]([https://scontent.fbog11-1.fna.fbcdn.net/v/t1.18169-9/944948_1013874748655443_5200288483376994430_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFLdQ0jv_XmeF0G2VjalSsqBdbnScR4KnYF1udJxHgqdujDtcRzUNIUVUsDPoRslZpLNERTfb4dg6HIj4vSCb0n&_nc_ohc=5aBEe6iGuS0AX_Y1TNj&_nc_oc=AdicTC2ZoN_3f186B88Fu7bXAp_CNj6T8xtTYcOeWGYGrFu0XcMCpt54bbVo7cTb4KQ&_nc_ht=scontent.fbog11-1.fna&oh=00_AfBUGIrTfX9fNGmyrQvVViMbu_ajtNydtFiQQ97bJFnjPg&oe=66281A77](https://www.google.com/imgres?q=fargoz&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1775827%3Fv%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2FFARGOZ&docid=KT0Fq30akkPCzM&tbnid=nhb2bj-Rt3zhlM&vet=12ahUKEwjAqJqyh46FAxXdRjABHfaRAnYQM3oECGAQAA..i&w=460&h=460&hcb=2&itg=1&ved=2ahUKEwjAqJqyh46FAxXdRjABHfaRAnYQM3oECGAQAA)) Hola, mi nombre es Farley Gonzalez 👋
+# ![https://fargoz.com.co](https://raw.githubusercontent.com/FARGOZ/FARGOZ/main/assets/Logo.jpg) Hola, mi nombre es Farley Gonzalez 👋
 ### Freelance full-stack
 
-![https://github.com/FARGOZ](https://scontent.fbog11-1.fna.fbcdn.net/v/t39.30808-6/292544563_420937713382799_973642947833372192_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jy7UE7sgj0oAX-7yC35&_nc_ht=scontent.fbog11-1.fna&oh=00_AfCeAQO4ErPdRfJV4wo4r5sXKZuCCcQSYIqDeQZ1r4u9OQ&oe=6604AA4C)
+![https://github.com/FARGOZ](https://raw.githubusercontent.com/FARGOZ/FARGOZ/main/assets/FARGOZ%20Banner.jpg)
 
 <!-- ## 👋 &nbsp;Hey there! I'm FARGOZ -->
 
