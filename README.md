@@ -1,5 +1,5 @@
 # ![https://fargoz.com.co](https://raw.githubusercontent.com/FARGOZ/FARGOZ/main/assets/Logo.jpg) Hola, mi nombre es Farley Gonzalez 👋
-### Freelance full-stack
+### Programador Freelance
 
 ![https://github.com/FARGOZ](https://raw.githubusercontent.com/FARGOZ/FARGOZ/main/assets/FARGOZ%20Banner.jpg)
 
